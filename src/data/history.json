@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Web developer",
+    "organisation": "Ducat India placement cell",
+    "startDate": "jan,2023",
+    "endDate": "December 2023",
+    "experiences": [ "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+ 
+  {
+    "role": "SWE Intern",
+    "organisation": "Movix-website",
+    "startDate": "August 2023",
+    "endDate": "september 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

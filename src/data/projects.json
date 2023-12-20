@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Ecommerce website ",
+    "imageSrc": "projects/shopping.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/Mompa786/studentMall.git",
+    "source": "https://github.com/Mompa786/studentMall.git"
+  },
+  {
+    "title": "Movix-Main",
+    "imageSrc": "projects/movix.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Vite","Express", "Node"],
+    "demo": "https://github.com/Mompa786/movix-main.git",
+    "source": "https://github.com/Mompa786/movix-main.git",
+    "host":  "movix-main-five.vercel.app"
+  },
+  {
+    "title": "Chat-App",
+    "imageSrc": "projects/message.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Mompa786/chatapp.git"
+  },
+  {
+    "title": "tic-tok-toe",
+    "imageSrc": "projects/message.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "HTML","CSS","JAVSCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://www.example.com"
+  }, {
+    "title": "Rock papper scissor",
+    "imageSrc": "projects/message.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "HTML","CSS","JAVSCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://www.example.com"
+  }, {
+    "title": "Chat-App",
+    "imageSrc": "projects/message.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.example.com"
+  }
+]
